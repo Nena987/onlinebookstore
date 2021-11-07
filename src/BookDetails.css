@@ -1,0 +1,14 @@
+.formContent {
+  margin-top: 50px;
+  max-width: 50vw;
+  padding: 20px;
+  border: 2px black dotted;
+  border-radius: 40px;
+  margin: 10px;
+  background-color: rgb(243, 229, 213);
+}
+
+.bookDetails {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
